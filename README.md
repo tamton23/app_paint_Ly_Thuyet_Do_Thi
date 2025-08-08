@@ -1,4 +1,4 @@
-# Introduce (My application is still under development)
+# Introduce (still under development)
   1. Program use java swing in NetBeans
   2. develop in linux
   3. App functions:
