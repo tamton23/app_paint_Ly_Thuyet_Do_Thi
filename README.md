@@ -15,7 +15,9 @@
   3. Use Netbeans to run
   4. import project on NetBean
   5. run file DOAN_ltdt.java
-  6. ...
+
+  
+  or. ...
 (windows)
 run .exe
 # Help: 
